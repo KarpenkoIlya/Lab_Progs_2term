@@ -1,0 +1,7 @@
+﻿  Lr_2.cpp
+C:\Users\Home\source\repos\Лабы по проге\Lr_Prog_2sem\L2\Lr_2\Lr_2\Lr_2.cpp(20,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Home\source\repos\Лабы по проге\Lr_Prog_2sem\L2\Lr_2\Lr_2\Lr_2.cpp(31,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Home\source\repos\Лабы по проге\Lr_Prog_2sem\L2\Lr_2\Lr_2\Lr_2.cpp(35,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Home\source\repos\Лабы по проге\Lr_Prog_2sem\L2\Lr_2\Lr_2\Lr_2.cpp(39,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Home\source\repos\Лабы по проге\Lr_Prog_2sem\L2\Lr_2\Lr_2\Lr_2.cpp(10,22): warning C4101: c: неиспользованная локальная переменная
+  Lr_2.vcxproj -> C:\Users\Home\source\repos\Лабы по проге\Lr_Prog_2sem\L2\Lr_2\Debug\Lr_2.exe
